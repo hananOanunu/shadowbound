@@ -51,7 +51,7 @@ A Dark Fantasy weapons, cursed armors, and occult relics mod for **Minecraft 1.2
 * **Required Dependency:** [Fabric API 1.20.1](https://modrinth.com/mod/fabric-api)
 
 ### Installation Steps (TLauncher / Prism / CurseForge / Vanilla)
-1. Download the latest **`shadowbound-1.0.0.jar`** from the [Releases](https://github.com/your-username/shadowbound/releases) tab.
+1. Download the latest **`shadowbound-1.0.0.jar`** from the [Releases](https://github.com/hananOanunu/shadowbound/releases) tab.
 2. Download **`Fabric API`** for Minecraft 1.20.1.
 3. Open your Minecraft or TLauncher folder:
    * **In TLauncher:** Click the little yellow folder icon 📁 at the bottom right.
