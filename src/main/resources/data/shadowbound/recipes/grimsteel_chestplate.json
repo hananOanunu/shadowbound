@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G G",
+    "GGG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "shadowbound:grimsteel_ingot"
+    }
+  },
+  "result": {
+    "item": "shadowbound:grimsteel_chestplate",
+    "count": 1
+  },
+  "category": "equipment"
+}

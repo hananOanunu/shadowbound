@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "B B"
+  ],
+  "key": {
+    "B": {
+      "item": "shadowbound:blood_gem"
+    }
+  },
+  "result": {
+    "item": "shadowbound:bloodforged_boots",
+    "count": 1
+  },
+  "category": "equipment"
+}

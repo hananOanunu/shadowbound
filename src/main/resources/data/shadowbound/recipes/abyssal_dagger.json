@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    " G ",
+    " S "
+  ],
+  "key": {
+    "R": {
+      "item": "shadowbound:shadow_remnant"
+    },
+    "G": {
+      "item": "shadowbound:grimsteel_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "shadowbound:abyssal_dagger",
+    "count": 1
+  },
+  "category": "equipment"
+}

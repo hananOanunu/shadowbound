@@ -1,0 +1,48 @@
+{
+  "itemgroup.shadowbound.tab": "Shadowbound: Dark Relics",
+
+  "item.shadowbound.shadow_remnant": "Shadow Remnant",
+  "item.shadowbound.grimsteel_ingot": "Grimsteel Ingot",
+  "item.shadowbound.blood_gem": "Blood Gem",
+  "item.shadowbound.void_essence": "Void Essence",
+
+  "item.shadowbound.bloodthorn_blade": "Bloodthorn Greatsword",
+  "item.shadowbound.soul_scythe": "Harvester of the Hollow",
+  "item.shadowbound.abyssal_dagger": "Shadowfang Dagger",
+  "item.shadowbound.grimsteel_claymore": "Grimsteel Claymore",
+
+  "item.shadowbound.grimsteel_helmet": "Grimsteel Visor",
+  "item.shadowbound.grimsteel_chestplate": "Grimsteel Cuirass",
+  "item.shadowbound.grimsteel_leggings": "Grimsteel Greaves",
+  "item.shadowbound.grimsteel_boots": "Grimsteel Sabatons",
+
+  "item.shadowbound.bloodforged_helmet": "Bloodforged Crown",
+  "item.shadowbound.bloodforged_chestplate": "Bloodforged Hauberk",
+  "item.shadowbound.bloodforged_leggings": "Bloodforged Chausses",
+  "item.shadowbound.bloodforged_boots": "Bloodforged Striders",
+
+  "tooltip.shadowbound.press_shift": "§8Hold §e[Shift] §8for abilities & lore",
+
+  "tooltip.shadowbound.bloodthorn_blade.short": "§7Ability: §cLifeleech & Bleed",
+  "tooltip.shadowbound.bloodthorn_blade.line1": "§c« Bloodthorn Greatsword »",
+  "tooltip.shadowbound.bloodthorn_blade.line2": "§4♦ Lifeleech: §7Leeches player health on strike.",
+  "tooltip.shadowbound.bloodthorn_blade.line3": "§c♦ Hemorrhage: §7Inflicts wither & slowness on foes.",
+
+  "tooltip.shadowbound.soul_scythe.short": "§7Ability: §bSoul Surge & Shroud",
+  "tooltip.shadowbound.soul_scythe.line1": "§8« Harvester of the Hollow »",
+  "tooltip.shadowbound.soul_scythe.line2": "§b♦ Soul Surge: §7Grants speed & absorption ward.",
+  "tooltip.shadowbound.soul_scythe.line3": "§8♦ Shroud: §7Blinds and withers the target.",
+
+  "tooltip.shadowbound.abyssal_dagger.short": "§7Ability: §dShadow Ambush",
+  "tooltip.shadowbound.abyssal_dagger.line1": "§5« Shadowfang Dagger »",
+  "tooltip.shadowbound.abyssal_dagger.line2": "§d♦ Ambush: §7Attacking from stealth or dim light",
+  "tooltip.shadowbound.abyssal_dagger.line3": "§d  inflicts blindness & decaying wither.",
+
+  "tooltip.shadowbound.grimsteel_armor.short": "§7Set Bonus: §8Obsidian Bastion",
+  "tooltip.shadowbound.grimsteel_armor.line1": "§7« Set Bonus: Obsidian Bastion »",
+  "tooltip.shadowbound.grimsteel_armor.line2": "§8Full Set: Grants Night Vision & Resistance.",
+
+  "tooltip.shadowbound.bloodforged_armor.short": "§7Set Bonus: §cBlood Frenzy",
+  "tooltip.shadowbound.bloodforged_armor.line1": "§4« Set Bonus: Blood Frenzy »",
+  "tooltip.shadowbound.bloodforged_armor.line2": "§cFull Set: Cleanses Wither, grants Strength II & Speed below 50% HP."
+}

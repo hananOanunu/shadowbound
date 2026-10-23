@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "G G",
+    "G G"
+  ],
+  "key": {
+    "G": {
+      "item": "shadowbound:grimsteel_ingot"
+    }
+  },
+  "result": {
+    "item": "shadowbound:grimsteel_leggings",
+    "count": 1
+  },
+  "category": "equipment"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SIS",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "shadowbound:shadow_remnant"
+    },
+    "I": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "result": {
+    "item": "shadowbound:grimsteel_ingot",
+    "count": 1
+  },
+  "category": "misc"
+}

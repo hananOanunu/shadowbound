@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    " G ",
+    " S "
+  ],
+  "key": {
+    "G": {
+      "item": "shadowbound:grimsteel_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "shadowbound:grimsteel_claymore",
+    "count": 1
+  },
+  "category": "equipment"
+}

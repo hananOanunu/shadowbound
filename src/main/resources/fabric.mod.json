@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "shadowbound",
+  "version": "${version}",
+  "name": "Shadowbound: Dark Relics",
+  "description": "Dark fantasy weapons, cursed armors, and occult relics.",
+  "authors": [
+    "Ariel"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/"
+  },
+  "license": "MIT",
+  "icon": "assets/shadowbound/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.darkfantasy.shadowbound.ShadowboundMod"
+    ]
+  },
+  "mixins": [
+    "shadowbound.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

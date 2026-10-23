@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " B ",
+    " G "
+  ],
+  "key": {
+    "B": {
+      "item": "shadowbound:blood_gem"
+    },
+    "G": {
+      "item": "shadowbound:grimsteel_ingot"
+    }
+  },
+  "result": {
+    "item": "shadowbound:bloodthorn_blade",
+    "count": 1
+  },
+  "category": "equipment"
+}
